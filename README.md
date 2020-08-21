@@ -1,4 +1,8 @@
 # YelpCamp
+App has been deployed in **Heroku** using **mondodb Atlas** database. Link of website is given below:
+
+[Yelp Camp](https://final-yelp-campground.herokuapp.com/campgrounds)
+
 
 ## Initial Setup
 * Add Landing Page
