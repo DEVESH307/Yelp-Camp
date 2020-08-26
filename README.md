@@ -1,8 +1,14 @@
+# Resume Points
+# YelpCamp Website (JavaScript, Node.js, Express, MongoDB)							      Jul‘20 
+## Project Objective
+- Designed and implemented YelpCamp (A Yelp style website for the campground) website that support user login, posting review, comments, and editing previous submissions
+- Designed and implemented MongoDB & MongoDB Atlas infrastructure to store reviews/comments data and relevant information associated with users and Deployed the website using Heroku
+
+
+
+
+
 # YelpCamp
-App has been deployed in **Heroku** using **mondodb Atlas** database. Link of website is given below:
-
-[Yelp Camp](https://final-yelp-campground.herokuapp.com/campgrounds)
-
 
 ## Initial Setup
 * Add Landing Page
